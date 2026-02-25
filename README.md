@@ -17,3 +17,13 @@ Author
 Akbar Ali
 
 Data Analyst
+
+
+#DataAnalytics
+#SQL
+#PowerBI
+#Python
+#Dashboard
+#BusinessIntelligence
+#DataVisualization
+#MachineLearning
