@@ -11,3 +11,9 @@ DAX calculations
 KPI design
 
 Business insight generation
+
+Author 
+
+Akbar Ali
+
+Data Analyst
